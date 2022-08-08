@@ -1,6 +1,6 @@
 
 # Lmabda_Function_to_Alert_on_Unused_EIP
-Lambda Function that finds and sends alert via SNS, Helps to have a check on billing.
+Lambda Function that finds Unused EIP and sends alert via SNS, Helps to have a check on billing.
 
 
 
